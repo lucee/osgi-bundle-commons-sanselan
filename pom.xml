@@ -93,8 +93,8 @@
              <configuration>
                <artifactItems>
                  <artifactItem>
-                   <groupId>org.apache.commons</groupId>
-                    <artifactId>commons-sanselan</artifactId>
+                   <groupId>org.apache.sanselan</groupId>
+                    <artifactId>sanselan</artifactId>
                     <version>0.97-incubator</version>
                    <type>jar</type>
                    <overWrite>false</overWrite>
